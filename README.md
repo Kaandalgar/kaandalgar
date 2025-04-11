@@ -1,8 +1,8 @@
-[![MasterHead](file:///C:/Users/kndlg/Downloads/images.html)
+[![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 <h1 align="center">Hi 👋, I'm Ibrahim Kaan</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **react,node.js**
+- 🌱 I’m currently learning **react, node.js**
 
 - 📫 How to reach me **ikaandalgar@gmail.com**
 
@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaandalgar&show_icons=true&theme=merko&title_color=0d8bc9&text_color=000000&bg_color=ffffff&locale=en&layout=compact" alt="kaandalgar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaandalgar&show_icons=true&locale=en" alt="kaandalgar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaandalgar&show_icons=true&title_color=0d8bc9&locale=en" alt="kaandalgar" /></p>
