@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAGkR6XSe90/jxuv4bbwAWnjcxjkOof3Vg/edit?utm_content=DAGkR6XSe90&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![MasterHead](file:///C:/Users/kndlg/Downloads/images.html)
 <h1 align="center">Hi 👋, I'm Ibrahim Kaan</h1>
 <h3 align="center">Software Engineer</h3>
 
