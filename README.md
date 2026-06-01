@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Kaan</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **react, node.js**
+- 🌱 I’m currently learning **ASP.NET MVC, C#**
 
 - 📫 How to reach me **ikaandalgar@gmail.com**
 
