@@ -1,8 +1,9 @@
-[![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
+![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 <h1 align="center">Hi 👋, I'm Ibrahim Kaan</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **ASP.NET MVC, C#**
+- 💻 Currently building projects with **C#, ASP.NET Core MVC & Web API, Entity Framework Core, and SQL Server**
+- 🌱 Currently improving my skills in **React, JavaScript**
 
 - 📫 How to reach me **ikaandalgar@gmail.com**
 
